@@ -3,7 +3,7 @@ export default function Navbar (){
     <>
     <header>
       <nav>
-        <img className="nav-img" src="img/React-icon.png" alt="React Logo" />
+        <img className="nav-img" src="/img/React-icon.png" alt="React Logo" />
         <span>ReactFacts</span>
       </nav>
     </header>
